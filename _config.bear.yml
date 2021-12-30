@@ -1,0 +1,52 @@
+# Header
+menu:
+  归档: /archives
+  关于: /About
+rss: /atom.xml
+title: 没事打鸡蛋
+
+author: 没事打鸡蛋
+aboutme: 分享有趣好玩的互联网生活
+
+# Content
+excerpt_link: 全文...
+fancybox: true
+date_format: 'YYYY年MM月DD日'
+
+socials:
+  telegram: "https://t.me/meishidajidan"
+
+
+
+# Sidebar
+# sidebar: right
+# widgets:
+# - category
+# - tag
+# - archive
+# - recent_posts
+
+# display widgets at the bottom of index pages (pagination == 2)
+index_widgets:
+# - category
+# - tagcloud
+# - archive
+
+#主题方案
+highlight_theme: atom light
+
+# widget behavior
+archive_type: 'monthly'
+show_count: false
+
+disqus_shortname:
+
+# Miscellaneous
+google_analytics: 'G-HX5VZQGLD0'
+gauges_analytics:
+favicon: /images/avatar.png
+avatar: "/images/avatar.png"
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
